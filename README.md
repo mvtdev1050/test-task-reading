@@ -3,7 +3,8 @@
 ## Steps to setup the project
 
 1) Clone project
-2) Run composer install
+2) Run
+##### composer install
 3) give read write permissions to following folders:
 public,bootstrap,config,storage
 4) Copy .env.example and rename to .env and change db crdentials here.
