@@ -5,9 +5,9 @@
 1) Clone project
 2) Run
 ##### composer install
-3) give read write permissions to following folders:
-public,bootstrap,config,storage
-4) Copy .env.example and rename to .env and change db crdentials here.
+3) Give read-write permissions to following folders:
+public, bootstrap, config, storage
+4) Copy .env.example and rename it to .env and change db credentials here.
 5) Run migrations by following command:
 ##### php artisan migrate
 6) Run seeds:
